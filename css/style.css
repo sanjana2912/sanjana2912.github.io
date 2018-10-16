@@ -170,6 +170,7 @@ header {
 	background-size:cover;
 	background-attachment:fixed !important;
 	overflow:hidden;
+	
 }
 .parallax-pattern-overlay {
 	background-image:url(../img/pattern.png);
